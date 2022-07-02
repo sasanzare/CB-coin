@@ -1,0 +1,2 @@
+# CB-coin
+Codebox cryptocurrency
